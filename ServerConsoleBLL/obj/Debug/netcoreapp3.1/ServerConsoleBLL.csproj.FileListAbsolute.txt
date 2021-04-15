@@ -1,0 +1,15 @@
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\obj\Debug\netcoreapp3.1\ServerConsoleBLL.csprojAssemblyReference.cache
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\obj\Debug\netcoreapp3.1\ServerConsoleBLL.AssemblyInfoInputs.cache
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\obj\Debug\netcoreapp3.1\ServerConsoleBLL.AssemblyInfo.cs
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\bin\Debug\netcoreapp3.1\ServerConsoleBLL.deps.json
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\bin\Debug\netcoreapp3.1\ServerConsoleBLL.runtimeconfig.json
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\bin\Debug\netcoreapp3.1\ServerConsoleBLL.runtimeconfig.dev.json
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\bin\Debug\netcoreapp3.1\ServerConsoleBLL.dll
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\bin\Debug\netcoreapp3.1\ServerConsoleBLL.pdb
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\obj\Debug\netcoreapp3.1\ServerConsoleBLL.csproj.CoreCompileInputs.cache
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\obj\Debug\netcoreapp3.1\ServerConsoleBLL.csproj.CopyComplete
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\obj\Debug\netcoreapp3.1\ServerConsoleBLL.dll
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\obj\Debug\netcoreapp3.1\ServerConsoleBLL.pdb
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\obj\Debug\netcoreapp3.1\ServerConsoleBLL.genruntimeconfig.cache
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\bin\Debug\netcoreapp3.1\CipherManager.dll
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\bin\Debug\netcoreapp3.1\CipherManager.pdb

@@ -1,0 +1,12 @@
+C:\Users\amukh\source\repos\Test\ServerDal\bin\Debug\netcoreapp3.1\ServerDal.deps.json
+C:\Users\amukh\source\repos\Test\ServerDal\bin\Debug\netcoreapp3.1\ServerDal.runtimeconfig.json
+C:\Users\amukh\source\repos\Test\ServerDal\bin\Debug\netcoreapp3.1\ServerDal.runtimeconfig.dev.json
+C:\Users\amukh\source\repos\Test\ServerDal\bin\Debug\netcoreapp3.1\ServerDal.dll
+C:\Users\amukh\source\repos\Test\ServerDal\bin\Debug\netcoreapp3.1\ServerDal.pdb
+C:\Users\amukh\source\repos\Test\ServerDal\obj\Debug\netcoreapp3.1\ServerDal.csprojAssemblyReference.cache
+C:\Users\amukh\source\repos\Test\ServerDal\obj\Debug\netcoreapp3.1\ServerDal.AssemblyInfoInputs.cache
+C:\Users\amukh\source\repos\Test\ServerDal\obj\Debug\netcoreapp3.1\ServerDal.AssemblyInfo.cs
+C:\Users\amukh\source\repos\Test\ServerDal\obj\Debug\netcoreapp3.1\ServerDal.csproj.CoreCompileInputs.cache
+C:\Users\amukh\source\repos\Test\ServerDal\obj\Debug\netcoreapp3.1\ServerDal.dll
+C:\Users\amukh\source\repos\Test\ServerDal\obj\Debug\netcoreapp3.1\ServerDal.pdb
+C:\Users\amukh\source\repos\Test\ServerDal\obj\Debug\netcoreapp3.1\ServerDal.genruntimeconfig.cache

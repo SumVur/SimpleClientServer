@@ -1,0 +1,9 @@
+C:\Users\amukh\source\repos\Test\CipherManager\bin\Debug\netcoreapp3.1\CipherManager.deps.json
+C:\Users\amukh\source\repos\Test\CipherManager\bin\Debug\netcoreapp3.1\CipherManager.dll
+C:\Users\amukh\source\repos\Test\CipherManager\bin\Debug\netcoreapp3.1\CipherManager.pdb
+C:\Users\amukh\source\repos\Test\CipherManager\obj\Debug\netcoreapp3.1\CipherManager.csprojAssemblyReference.cache
+C:\Users\amukh\source\repos\Test\CipherManager\obj\Debug\netcoreapp3.1\CipherManager.AssemblyInfoInputs.cache
+C:\Users\amukh\source\repos\Test\CipherManager\obj\Debug\netcoreapp3.1\CipherManager.AssemblyInfo.cs
+C:\Users\amukh\source\repos\Test\CipherManager\obj\Debug\netcoreapp3.1\CipherManager.csproj.CoreCompileInputs.cache
+C:\Users\amukh\source\repos\Test\CipherManager\obj\Debug\netcoreapp3.1\CipherManager.dll
+C:\Users\amukh\source\repos\Test\CipherManager\obj\Debug\netcoreapp3.1\CipherManager.pdb

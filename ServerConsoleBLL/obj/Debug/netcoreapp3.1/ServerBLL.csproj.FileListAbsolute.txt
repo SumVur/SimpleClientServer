@@ -1,0 +1,17 @@
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\bin\Debug\netcoreapp3.1\ServerBLL.deps.json
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\bin\Debug\netcoreapp3.1\ServerBLL.runtimeconfig.json
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\bin\Debug\netcoreapp3.1\ServerBLL.runtimeconfig.dev.json
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\bin\Debug\netcoreapp3.1\ServerBLL.dll
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\bin\Debug\netcoreapp3.1\ServerBLL.pdb
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\bin\Debug\netcoreapp3.1\CipherManager.dll
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\bin\Debug\netcoreapp3.1\ServerDal.dll
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\bin\Debug\netcoreapp3.1\CipherManager.pdb
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\bin\Debug\netcoreapp3.1\ServerDal.pdb
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\obj\Debug\netcoreapp3.1\ServerBLL.csprojAssemblyReference.cache
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\obj\Debug\netcoreapp3.1\ServerBLL.AssemblyInfoInputs.cache
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\obj\Debug\netcoreapp3.1\ServerBLL.AssemblyInfo.cs
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\obj\Debug\netcoreapp3.1\ServerBLL.csproj.CoreCompileInputs.cache
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\obj\Debug\netcoreapp3.1\ServerBLL.csproj.CopyComplete
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\obj\Debug\netcoreapp3.1\ServerBLL.dll
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\obj\Debug\netcoreapp3.1\ServerBLL.pdb
+C:\Users\amukh\source\repos\Test\ServerConsoleBLL\obj\Debug\netcoreapp3.1\ServerBLL.genruntimeconfig.cache
